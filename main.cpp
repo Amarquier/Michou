@@ -22,5 +22,6 @@ using namespace std;
 int main(int argc, char** argv) {
 
     cout << "salam";
+    cout << "les kheys";
 }
 
